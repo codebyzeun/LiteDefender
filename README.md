@@ -16,7 +16,7 @@ LiteDefender can be built using CMake and a C++17 compatible compiler. Here's ho
 
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/LiteDefender.git
+    git clone https://github.com/codebyzeun/LiteDefender.git
     cd LiteDefender
     ```
 
