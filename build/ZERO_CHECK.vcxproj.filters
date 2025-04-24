@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\PERSONAL PROJECTS FOR GITHUB\LiteDefender\build\CMakeFiles\a23e2f1721a4e726f792b76ff51b4e14\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C1F246B2-2DA8-3998-A3D8-9A94BE45E6E0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

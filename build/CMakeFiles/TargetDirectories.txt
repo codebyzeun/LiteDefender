@@ -1,0 +1,4 @@
+D:/PERSONAL PROJECTS FOR GITHUB/LiteDefender/build/CMakeFiles/litedefender.dir
+D:/PERSONAL PROJECTS FOR GITHUB/LiteDefender/build/CMakeFiles/test_scanner.dir
+D:/PERSONAL PROJECTS FOR GITHUB/LiteDefender/build/CMakeFiles/ALL_BUILD.dir
+D:/PERSONAL PROJECTS FOR GITHUB/LiteDefender/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "msbuild",
+            "args": [
+                // Path to the solution file
+                "D:/PERSONAL PROJECTS FOR GITHUB/LiteDefender/build/Project.sln",
+                "/property:Configuration=Release",  // Build in Release mode
+                "/property:GenerateFullPaths=true", // Generate full paths for file names
+                "/t:build", // Target build
+                "/consoleloggerparameters:NoSummary" // Suppress summary
+            ],
+            "group": "build",
+            "presentation": {
+                // Reveal the output only if unrecognized errors occur
+                "reveal": "silent"
+            },
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
